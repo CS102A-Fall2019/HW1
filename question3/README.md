@@ -7,5 +7,12 @@ Experiment with all of the 26 letters in the alphabet.
 Comment out the lines that give compiler errors so that your program can compile.
 
 Compilation Steps:  
+gcc q3.c
+./a.exe
 
 Output:
+(blank lines)
+
+
+
+
