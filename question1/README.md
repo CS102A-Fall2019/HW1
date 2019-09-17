@@ -11,5 +11,10 @@ Write a shell script that does the following:
 Hint: "../" goes back one directory
 
 How to run the script:  
+chmod 777 q1.sh
+./q1.sh
 
 Output:
+hw1_unix  hw1_unix_copy  q1.sh  README.md
+file1_copy.txt  file1_copy2.txt
+
